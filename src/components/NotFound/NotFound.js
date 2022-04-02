@@ -3,7 +3,8 @@ import React from 'react';
 const NotFound = () => {
     return (
         <div>
-            <h1 className='text-4xl'>The file not found</h1>
+            <h1>The file not found</h1>
+            <h1>404</h1>
         </div>
     );
 };
