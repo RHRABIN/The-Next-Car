@@ -1,0 +1,20 @@
+.parent-class {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a {
+    margin-right: 20px;
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.active-class {
+    color: red;
+    text-decoration: underline;
+}
+
+.unactive-class {
+    color: black;
+}
