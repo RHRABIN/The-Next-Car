@@ -1,6 +1,7 @@
 .parent-class {
     display: flex;
     justify-content: space-between;
+
 }
 
 nav a {
@@ -17,4 +18,10 @@ nav a {
 
 .unactive-class {
     color: black;
+}
+
+@media screen and (max-width:860px) {
+    nav a {
+        display: block;
+    }
 }

@@ -1,0 +1,22 @@
+.all-review {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    /* width: 500px; */
+    /* margin: 0 auto; */
+    gap: 20px;
+
+}
+
+@media screen and (max-width:980px) {
+    .all-review {
+        grid-template-columns: repeat(2, 1fr);
+
+    }
+}
+
+@media screen and (max-width:660px) {
+    .all-review {
+        display: block;
+
+    }
+}
