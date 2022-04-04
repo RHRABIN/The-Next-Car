@@ -1,0 +1,29 @@
+.home-parent-class {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+h1 {
+    line-height: 50%;
+    font-size: 40px;
+}
+
+.text-container {
+    margin-top: 30px;
+}
+
+.button-live-demo {
+    padding: 15px 30px;
+    background-color: rgb(191, 218, 209);
+    border: none;
+    border-radius: 5px;
+}
+
+.button-live-demo:hover {
+    background-color: rgb(169, 184, 178);
+    border-radius: 10px;
+}
+
+.img-container img {
+    /* width: 550px; */
+}
