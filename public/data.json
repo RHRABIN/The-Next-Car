@@ -3,7 +3,7 @@
         "month": "Mar",
         "investment": 100000,
         "sell": 241,
-        "revenue": 10401
+        "revenue": 80040
     },
     {
         "month": "Apr",
@@ -15,7 +15,7 @@
         "month": "May",
         "investment": 500000,
         "sell": 726,
-        "revenue": 67010
+        "revenue": 267010
     },
     {
         "month": "Jun",
@@ -27,7 +27,7 @@
         "month": "Jul",
         "investment": 600000,
         "sell": 601,
-        "revenue": 50900
+        "revenue": 209000
     },
     {
         "month": "Aug",
