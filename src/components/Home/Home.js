@@ -12,7 +12,7 @@ const Home = () => {
                 <div className='text-container '>
                     <h1>The next car</h1>
                     <h1 style={{ color: 'blue' }}>The best car</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur voluptas officia rerum ducimus sequi dolores saepe molestiae soluta animi magni aliquid dolore cum molestias ad facere distinctio ullam consequatur, beatae nostrum quis enim esse repudiandae?</p>
+                    <p>This product are available in Bangladesh any where. We have stored different car top of the world, BMW, Crorola, Axio, Prado are availabe. You can see our products by live demo</p>
                     <button className='button-live-demo'>Live Demo</button>
                 </div>
                 <div className='img-container'>

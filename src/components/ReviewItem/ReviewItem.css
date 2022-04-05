@@ -25,12 +25,14 @@
 
 .img-star-container {
     display: flex;
+    align-items: center;
 }
 
 .img-star-logo-container {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    align-items: center;
 }
 
 .logo {
@@ -45,6 +47,7 @@ h2 {
 
 .star-icon {
     width: 15px;
+    margin-left: 4px;
     color: yellow;
 }
 
