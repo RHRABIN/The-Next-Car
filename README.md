@@ -1,6 +1,6 @@
 # My Shoping Website
 
-This project was bootstrapped with [Live Link](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Live Link](https://precious-torrone-48e981.netlify.app/review).
 
 ## Available Scripts
 - This project about online car shop
